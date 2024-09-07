@@ -9,6 +9,7 @@
 * Linux Kernel
 * Emacs
 * Ocaml
+* Ultra cheap VPS providers
 * Curious about: Rust, Haskell
 <!--
 **v01dXYZ/v01dxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
