@@ -2,7 +2,7 @@
 
 * Python
 * C++
-* Compilers: LLVM/Clang, gcc/binutils
+* Compilers: LLVM/Clang, binutils/GCC
 * 3D: Blender, Godot
 * AMD GPU: Mesa, ROCm
 * DB: Postgres, Clickhouse
