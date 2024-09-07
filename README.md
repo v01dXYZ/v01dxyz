@@ -1,5 +1,15 @@
-## Hi there 👋
+### Centers of interest
 
+* Python
+* C++
+* Compilers: LLVM/Clang, gcc/binutils
+* 3D: Blender, Godot
+* AMD GPU: Mesa, ROCm
+* DB: Postgres, Clickhouse
+* Linux Kernel
+* Emacs
+* Ocaml
+* Curious about: Rust, Haskell
 <!--
 **v01dXYZ/v01dxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
